@@ -152,7 +152,7 @@
                         "S3Bucket": "[parameters('S3Bucket')]",
                         "AWSAccessKeyId": "[parameters('AWSAccessKeyId')]",
                         "AWSSecretAccessKey": "[parameters('AWSSecretAccessKey')]",
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/Azure/Azure-Sentinel/blob/master/DataConnectors/CiscoUmbrella/CiscoUmbrellaConn.zip?raw=true"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/v-jayakal/Azure-Sentinel/blob/CiscoUmbrella-Original/DataConnectors/CiscoUmbrella/CiscoUmbrellaConn.zip?raw=true"
                     }
                 }
             ]
